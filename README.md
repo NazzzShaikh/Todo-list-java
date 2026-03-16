@@ -35,9 +35,13 @@ Tasks are stored using a LinkedList and each task contains:
 Welcome to To-Do List Application
 
 1 -> Add Task
+
 2 -> Mark as complete
+
 3 -> Remove Task
+
 4 -> View Task
+
 5 -> Exit
 
 ## Author
